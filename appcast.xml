@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>snipe updates</title>
-    <link>https://tanzirulhuda.github.io/snipe-releases</link>
+    <link>https://snipehq.github.io/snipe-releases</link>
     <description>Production appcast feed for snipe.</description>
     <language>en</language>
   </channel>
