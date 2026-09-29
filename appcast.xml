@@ -1,9 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>snipe updates</title>
-    <link>https://snipehq.github.io/snipe-releases</link>
-    <description>Production appcast feed for snipe.</description>
-    <language>en</language>
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>snipe updates</title>
+        <link>https://snipehq.github.io/snipe-releases</link>
+        <description>Production appcast feed for snipe.</description>
+        <language>en</language>
+        <item>
+            <title>1.0</title>
+            <pubDate>Wed, 30 Sep 2026 01:41:59 +0600</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Snipe 1.0
+
+First release.
+
+## What's new
+
+- Convert files without leaving Finder. Select files, double-tap Shift, pick a format from the ring
+- 2,500+ conversions across images, video, audio, and documents, including HEIC, WebM, EPUB, and Office files
+- Hold Option with the ring open for edit tools: trim, compress, crop, rotate, clean metadata, and more
+- Converter tab for batch jobs, with quality, size, and bitrate controls plus presets
+- Install guides for ffmpeg, pandoc, and LibreOffice to unlock the remaining formats
+- Everything runs on your Mac, files never upload anywhere
+- Hover sounds on the ring, can be turned off in Menu settings
+- Interactive first-run tour that walks through the first conversion
+- 3-day free trial, then one payment for 3 Macs
+]]></description>
+            <enclosure url="https://github.com/snipehq/snipe-releases/releases/download/v1.0/Snipe-1.0.dmg" length="4899277" type="application/octet-stream" sparkle:edSignature="21WqAeXl7w2hezCuTWMCE4mqtk0rKFBsNC7NoWTN9mQV34DyFbSRgPmRZZpz83FjblARmMLG/agsQJ3pOIDLBQ=="/>
+        </item>
+    </channel>
 </rss>
