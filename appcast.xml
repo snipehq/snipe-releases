@@ -6,6 +6,21 @@
         <description>Production appcast feed for snipe.</description>
         <language>en</language>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Thu, 01 Oct 2026 18:36:01 +0600</pubDate>
+            <link>https://snipehq.github.io/snipe-releases</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Snipe 1.0.1
+
+## 🐞 Bug Fixes
+
+- Fixes minor bugs.
+]]></description>
+            <enclosure url="https://github.com/snipehq/snipe-releases/releases/download/v1.0.1/Snipe-1.0.1.dmg" length="4899222" type="application/octet-stream" sparkle:edSignature="eyRnFW7cCh3vi/GrGOgg+Nq8ewXIYm8uyA/jUfbaX27W7v3L5EC90JOf4pKQDBeUfNZEopBNwy1L2abgbUEBCg=="/>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Wed, 30 Sep 2026 01:41:59 +0600</pubDate>
             <sparkle:version>1</sparkle:version>
@@ -15,7 +30,7 @@
 
 First release.
 
-## What's new
+## ✨ What's new
 
 - Convert files without leaving Finder. Select files, double-tap Shift, pick a format from the ring
 - 2,500+ conversions across images, video, audio, and documents, including HEIC, WebM, EPUB, and Office files
