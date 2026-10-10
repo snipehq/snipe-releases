@@ -6,6 +6,33 @@
         <description>Production appcast feed for snipe.</description>
         <language>en</language>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Sat, 10 Oct 2026 18:13:05 +0600</pubDate>
+            <link>https://snipehq.github.io/snipe-releases</link>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Snipe 1.1.0
+
+## ✨ What's new
+
+- Edit metadata - hold Option in the Finder menu, choose Edit Meta to change title, artist, and more for video, audio, and images. Only shows fields you can actually change.
+- Conversions keep metadata by default - names, dates, and locations carry over. Turn it off in the converter or under Settings → Quick Menu → Defaults.
+- Finder conversions use your settings - pick quality, size, sound, and more once in Settings → Quick Menu → Defaults, and every quick conversion from Finder follows them.
+- A menu that matches Finder - cleaner to read, with Regular or Clear style on the latest macOS. Clearer tick when you point at a choice, with separate sound and vibration switches in Settings.
+- Edit several files side by side - each file opens its own window. Instant actions like Mute or Clean Meta won't close what you're editing.
+
+## 🐞 Bug fixes
+
+- Clicking the menu no longer changes your Finder selection.
+- No more faint box around the menu on dark backgrounds.
+]]></description>
+            <enclosure url="https://github.com/snipehq/snipe-releases/releases/download/v1.1.0/Snipe-1.1.0.dmg" length="10717984" type="application/octet-stream" sparkle:edSignature="S0IGF23zaQKW2DbM5u+uqVttdSv+2x+IMCeF2d4AiwC+aPYPuzavT4MSe2RgpP2fH96KhNXdWUqml9mk8ky6AQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/snipehq/snipe-releases/releases/download/v1.1.0/snipe3-2.delta" sparkle:deltaFrom="2" length="5031170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="975840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="J2zTgxGe/+2XJZZ4oUzGAlQ/6r3ti77JHdp81ujVFb1NB5tk+k5rA5aF6NkJrVN1wYYJPBfrELIhXE4fKX4YDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Thu, 01 Oct 2026 18:36:01 +0600</pubDate>
             <link>https://snipehq.github.io/snipe-releases</link>
