@@ -28,9 +28,6 @@
 - No more faint box around the menu on dark backgrounds.
 ]]></description>
             <enclosure url="https://github.com/snipehq/snipe-releases/releases/download/v1.1.0/Snipe-1.1.0.dmg" length="10717984" type="application/octet-stream" sparkle:edSignature="S0IGF23zaQKW2DbM5u+uqVttdSv+2x+IMCeF2d4AiwC+aPYPuzavT4MSe2RgpP2fH96KhNXdWUqml9mk8ky6AQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/snipehq/snipe-releases/releases/download/v1.1.0/snipe3-2.delta" sparkle:deltaFrom="2" length="5031170" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="975840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="J2zTgxGe/+2XJZZ4oUzGAlQ/6r3ti77JHdp81ujVFb1NB5tk+k5rA5aF6NkJrVN1wYYJPBfrELIhXE4fKX4YDQ=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.0.1</title>
