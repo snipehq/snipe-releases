@@ -6,6 +6,31 @@
         <description>Production appcast feed for snipe.</description>
         <language>en</language>
         <item>
+            <title>1.1.2</title>
+            <pubDate>Tue, 13 Oct 2026 12:35:37 +0600</pubDate>
+            <link>https://snipehq.github.io/snipe-releases</link>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[# Snipe 1.1.2
+
+## ✨ What's new
+
+- Photos to PDF now use the same page size by default, so sharing and printing looks clean.
+- New PDF page size choice: A4, US Letter, or Original. Find it in Converter settings and Quick Menu defaults.
+
+## 🐞 Bug fixes
+
+- Fixed PDFs where every page had a different size.
+- Fixed portrait photos turning sideways in PDFs.
+- Fixed PDF to PDF losing selectable text.
+- Photos make smaller PDFs with quality setting, screenshots stay sharp.
+- Small icons no longer become huge poster pages.
+- Splitting a very short audio or video file no longer crashes the app — it now says the file is too short to split.
+]]></description>
+            <enclosure url="https://github.com/snipehq/snipe-releases/releases/download/v1.1.2/Snipe-1.1.2.dmg" length="11058685" type="application/octet-stream" sparkle:edSignature="hs24+pCD4nwKXL+gvF2gHTq9m2TE3/zA+IZ4Xlo/Xt1oEQmG5Lh+Qmoj5hoDFLJLbs3i27LwATJwgWvvjYRNAQ=="/>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Mon, 12 Oct 2026 21:44:19 +0600</pubDate>
             <link>https://snipehq.github.io/snipe-releases</link>
@@ -52,21 +77,6 @@
 - No more faint box around the menu on dark backgrounds.
 ]]></description>
             <enclosure url="https://github.com/snipehq/snipe-releases/releases/download/v1.1.0/Snipe-1.1.0.dmg" length="10717984" type="application/octet-stream" sparkle:edSignature="S0IGF23zaQKW2DbM5u+uqVttdSv+2x+IMCeF2d4AiwC+aPYPuzavT4MSe2RgpP2fH96KhNXdWUqml9mk8ky6AQ=="/>
-        </item>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Thu, 01 Oct 2026 18:36:01 +0600</pubDate>
-            <link>https://snipehq.github.io/snipe-releases</link>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[# Snipe 1.0.1
-
-## 🐞 Bug Fixes
-
-- Fixes minor bugs.
-]]></description>
-            <enclosure url="https://github.com/snipehq/snipe-releases/releases/download/v1.0.1/Snipe-1.0.1.dmg" length="4899222" type="application/octet-stream" sparkle:edSignature="eyRnFW7cCh3vi/GrGOgg+Nq8ewXIYm8uyA/jUfbaX27W7v3L5EC90JOf4pKQDBeUfNZEopBNwy1L2abgbUEBCg=="/>
         </item>
     </channel>
 </rss>
